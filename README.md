@@ -1,6 +1,6 @@
 # Resume
 
-Static hosting for resume files
+Hosting for resume files
 
 Live [EN]: https://aitor1717.github.io/resume/resume.html
 
